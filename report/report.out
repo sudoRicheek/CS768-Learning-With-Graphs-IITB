@@ -1,0 +1,6 @@
+\BOOKMARK [1][-]{section.1}{Implementation of the GNNFactory function}{}% 1
+\BOOKMARK [1][-]{section.2}{Early Stopping}{}% 2
+\BOOKMARK [1][-]{section.3}{Accuracy and Best Hyperparameters}{}% 3
+\BOOKMARK [1][-]{section.4}{Impact on test accuracy with change in num\137layers and hidden\137dim hyperparameters}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Change in num\137layers}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Change in hidden\137dim}{section.4}% 6

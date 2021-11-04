@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Implementation of the GNNFactory function}{2}{section.1}%
+\contentsline {section}{\numberline {2}Early Stopping}{2}{section.2}%
+\contentsline {section}{\numberline {3}Accuracy and Best Hyperparameters}{2}{section.3}%
+\contentsline {section}{\numberline {4}Impact on test accuracy with change in \texttt {num\_layers} and \texttt {hidden\_dim} hyperparameters}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Change in \texttt {num\_layers}}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Change in \texttt {hidden\_dim}}{4}{subsection.4.2}%
